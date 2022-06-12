@@ -81,6 +81,8 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
+            args '--singleplayer', "yes", '--nogui', "true"
+
             property 'forge.enabledGameTestNamespaces', mod_id
 
             mods.create("${mod_id}").source(sourceSets.main)
@@ -95,6 +97,8 @@ minecraft {
             property 'forge.logging.markers', 'REGISTRIES'
 
             property 'forge.logging.console.level', 'debug'
+
+            args '--singleplayer', "yes", '--nogui', "true"
 
             property 'forge.enabledGameTestNamespaces', mod_id
 
