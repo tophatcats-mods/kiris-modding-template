@@ -10,6 +10,14 @@
     <img src="https://img.shields.io/badge/Website-tophatcat.dev-brightgreen.svg?style=flat"/>
 </a>  
 
+<a href="https://www.curseforge.com/minecraft/mc-mods/kiris-modding-template">
+    <img src="https://cf.way2muchnoise.eu/versions/Minecraft_kiris-modding-template_all.svg"/>
+</a>
+
+<a href="https://www.curseforge.com/minecraft/mc-mods/kiris-modding-template">
+    <img src="https://cf.way2muchnoise.eu/full_kiris-modding-template_downloads.svg"/>
+</a>
+
 <a href="https://github.com/tophatcats-mods/kiris-modding-template/commits/dev">
     <img src="https://img.shields.io/github/last-commit/tophatcats-mods/kiris-modding-template.svg">
 </a>  
